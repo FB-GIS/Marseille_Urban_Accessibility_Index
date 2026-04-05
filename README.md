@@ -67,15 +67,15 @@ The pipeline proceeds in two parallel stages:
 ## Dependencies  
 
 ```
-geopandas>=0.14  
-h3>=4.0.0  
-h3pandas>=0.2  
-leafmap>=0.30  
-osmnx>=1.9  
+geopandas=1.1.3
+h3=4.4.2  
+h3pandas=0.3.0  
+leafmap=0.61.1  
+osmnx=2.1.0  
 scikit-learn>=1.3  
 numpy>=1.24  
-pandas>=2.0  
-shapely>=2.0  
+pandas=2.3.3  
+shapely=2.0  
 ```
 
 ## Limitations
