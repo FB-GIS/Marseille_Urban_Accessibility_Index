@@ -9,6 +9,9 @@ This project provides a reproducible, open-data pipeline to score and compare ac
 
 All input data is fetched live from **OpenStreetMap** via the `osmnx` library. No proprietary data sources are required.  
 
+[Districts Visualisation](public/districts.png)
+
+[H3 Visualisation](public/districts.png)
 ---
 
 ## Methodology  
