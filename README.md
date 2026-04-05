@@ -7,7 +7,7 @@ A geospatial analysis pipeline that computes a simple composite **Urban Accessib
 Urban accessibility — how easily residents can reach essential services.  
 This project provides a reproducible, open-data pipeline to score and compare accessibility across Marseille's 16 arrondissements and their constituent H3 hexagonal cells.  
 
-All input data is fetched live from **OpenStreetMap** via the `osmnx` library. No proprietary data sources are required.  
+All input data is fetched live from **OpenStreetMap** via the `osmnx` library.  
 
 Districts Visualization: 
 ![alt text](https://github.com/FB-GIS/Marseille_Urban_Accessibility_Index/blob/main/public/districts.png)
