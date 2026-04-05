@@ -72,10 +72,10 @@ h3=4.4.2
 h3pandas=0.3.0  
 leafmap=0.61.1  
 osmnx=2.1.0  
-scikit-learn>=1.3  
-numpy>=1.24  
+scikit-learn=1.8.0  
+numpy=2.4.4  
 pandas=2.3.3  
-shapely=2.0  
+shapely=2.1.2  
 ```
 
 ## Limitations
