@@ -72,13 +72,6 @@ pandas>=2.0
 shapely>=2.0  
 ```
 
-> **Important:** This project requires **H3 version 4+**. The function `h3.grid_disk()` replaced `h3.k_ring()` in the v3→v4 migration. If you encounter an `AttributeError: module 'h3' has no attribute 'k_ring'`, upgrade H3:  
-> ```bash  
-> pip install --upgrade h3  
-> ```  
-
----
-
 ## Limitations
 
 - **Data completeness:** Results depend on OpenStreetMap coverage, which varies across districts. Less-mapped areas may show artificially low scores.  
