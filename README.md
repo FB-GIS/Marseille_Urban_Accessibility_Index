@@ -9,9 +9,9 @@ This project provides a reproducible, open-data pipeline to score and compare ac
 
 All input data is fetched live from **OpenStreetMap** via the `osmnx` library. No proprietary data sources are required.  
 
-[Districts Visualisation](public/districts.png)
+[Districts Visualisation]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/FB-GIS/Marseille_Urban_Accessibility_Index/blob/main/public/districts.png)
+[H3 Visualisation]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/FB-GIS/Marseille_Urban_Accessibility_Index/blob/main/public/h3.png)
 
-[H3 Visualisation](public/districts.png)
 ---
 
 ## Methodology  
